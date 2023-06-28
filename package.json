@@ -34,6 +34,5 @@
     "storybook:android": "sb-rn-get-stories && cross-env STORYBOOK_ENABLED='true' expo start --android"
   },
   "version": "1.0.0",
-  "private": true,
-  "name": "storybook-tutorial-template"
+  "name": "amauryoliveira-storybook-react-native-expo"
 }
